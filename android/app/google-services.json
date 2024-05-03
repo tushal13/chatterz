@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "338040651499",
+    "project_id": "chatterz-4ed37",
+    "storage_bucket": "chatterz-4ed37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338040651499:android:ccbe75346923df324b88ae",
+        "android_client_info": {
+          "package_name": "com.example.chatterz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG_qD2slac5tbhzS4k0JLv8KHoF_gv-ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
